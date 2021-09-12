@@ -11,16 +11,16 @@ case 1:
    printf("Food item - Pizza \n price - Rs 239."); 
 break;
 case 2 :
-printf(" Food item - Burger \n Prise - Rs 129. ");
+printf(" Food item - Burger \n Price - Rs 129. ");
 break;
 case 3:
-printf(" Food item - Pasta \n Prise - Rs 179. "); 
+printf(" Food item - Pasta \n Price - Rs 179. "); 
 break;
 case 4:
-printf(" Food item - French Fries \n Prise - Rs 99. "); 
+printf(" Food item - French Fries \n Price - Rs 99. "); 
 break;
 case 5:
-     printf ("Food item - Sandwich \n Prise - Rs 149. ");
+     printf ("Food item - Sandwich \n Price - Rs 149. ");
 break ;
     default:
     printf ("use the default case.\n");
